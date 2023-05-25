@@ -4,7 +4,7 @@ This repository was created by Josh Bivins for the SSCS 2023 STEAM Expo. It is i
 
 The labels for folders are by no means limitations, merely best guesses of where the information might be the most useful to guide others. I encourage you to explore all aspects of this page to find the best starting place for you or to just have fun.
 
-This is a working list that will be updated over time.
+This is a working list that will be updated over time. Some sites have plans and payments, however these are not requirements to be able to benefit from the sites.
 
 If there are any questions, reach out to the school for ways to contact me or leave a message in the issues section.
 
