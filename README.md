@@ -1,10 +1,4 @@
-This repository was created by Josh Bivins for the SSCS 2023 STEAM Expo. It is intended to be a leaping off point for students to get started within CS. There are a list of resources here, ranging from basic introductions for younger students to more advanced introductions and resources for older students. 
-
-The labels for folders are by no means limitations, merely best guesses of where the information might be the most useful to guide others. I encourage you to explore all aspects of this page to find the best starting place for you or to just have fun.
-
-This is a working list that will be updated over time. Some sites have plans and payments, however these are not requirements to be able to benefit from the sites.
-
-If there are any questions, reach out to the school for ways to contact me or leave a message in the issues section.
+This repository was initially created by Josh Bivins for the SSCS 2023 STEAM Expo. It has since evolved into being an ongoing pool of resources to learn about CS. The initial materials and links are in the STEAM Expo 2023 folder. The new materials are created by me as tools to help learn different topics. As time goes on and I create more material new folders will be added. The starting point will be the Discovering Computer Science folder, which broadly covers topics in CS and deals with introductory programming in Python. At the time of writing this, that is the only material currently being created, so there is no current guide for what will come next. The content is based on my experience as someone who has been interested in CS since the 9th grade and is currently in pursuit of a PhD in the subject.
 
 Best,
 Josh
